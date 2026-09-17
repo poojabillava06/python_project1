@@ -1,4 +1,4 @@
 # python_project1
 this is my first project
 <br>
-Hello
+Starting my journey in Git and Github
